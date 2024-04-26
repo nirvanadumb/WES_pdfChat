@@ -1,0 +1,447 @@
+{
+  "_id": "29161673|None",
+  "id": "29161673",
+  "infons": {},
+  "passages": [
+    {
+      "infons": {
+        "journal": "J Affect Disord; 2018 02; 227517-520. doi:10.1016/j.jad.2017.11.054",
+        "year": "2018",
+        "article-id_pmc": "PMC5805569",
+        "type": "title",
+        "authors": "Plante DT, Birn RM, Walsh EC, Hoks RM, Cornejo MD, Abercrombie HC",
+        "section": "Title"
+      },
+      "offset": 0,
+      "text": "Reduced resting-state thalamostriatal functional connectivity is associated with excessive daytime sleepiness in persons with and without depressive disorders.",
+      "sentences": [],
+      "annotations": [
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "daytime sleepiness",
+          "locations": [
+            {
+              "offset": 91,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "9606",
+            "type": "Species"
+          },
+          "text": "persons",
+          "locations": [
+            {
+              "offset": 113,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D000275",
+            "type": "Disease"
+          },
+          "text": "depressive disorders",
+          "locations": [
+            {
+              "offset": 138,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0002189",
+            "type": "Phenotype"
+          },
+          "text": "excessive daytime sleepiness",
+          "locations": [
+            {
+              "offset": 81,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0000716",
+            "type": "Phenotype"
+          },
+          "text": "depressive disorders",
+          "locations": [
+            {
+              "offset": 138,
+              "length": 20
+            }
+          ]
+        }
+      ],
+      "relations": []
+    },
+    {
+      "infons": {
+        "type": "abstract",
+        "section": "Abstract"
+      },
+      "offset": 160,
+      "text": "BACKGROUND: Excessive daytime sleepiness (EDS) is a common and significant problem encountered in affective illness, however, the biological underpinnings of EDS in persons with psychiatric disorders are not clear. This study evaluated the associations between thalamic connectivity with cortical and subcortical brain regions with EDS in persons with and without depressive disorders (DD). METHODS: Resting-state functional connectivity magnetic resonance imaging scans from 67 unmedicated young to middle-aged women with current DD (n = 30), remitted DD (n = 13), and healthy controls (n = 24) were utilized to examine the associations between thalamic connectivity with cortical/subcortical structures and EDS. RESULTS: After correction for multiple comparisons and adjustment for age, habitual sleep duration, and depressive symptomatology, reduced resting-state connectivity between the bilateral thalamus and left rostral striatum (caudate/putamen) was significantly associated with EDS. LIMITATIONS: Causal inferences between thalamostriatal connectivity and EDS could not be determined. CONCLUSIONS: These results further implicate the role of the striatum and thalamus as central components of the experience of EDS. Further research is indicated to clarify the specific role these structures play in EDS in psychiatric disorders.",
+      "sentences": [],
+      "annotations": [
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "Excessive daytime sleepiness",
+          "locations": [
+            {
+              "offset": 172,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 202,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 318,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "9606",
+            "type": "Species"
+          },
+          "text": "persons",
+          "locations": [
+            {
+              "offset": 325,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D001523",
+            "type": "Disease"
+          },
+          "text": "psychiatric disorders",
+          "locations": [
+            {
+              "offset": 338,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 492,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "9606",
+            "type": "Species"
+          },
+          "text": "persons",
+          "locations": [
+            {
+              "offset": 499,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D000275",
+            "type": "Disease"
+          },
+          "text": "depressive disorders",
+          "locations": [
+            {
+              "offset": 524,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D000275",
+            "type": "Disease"
+          },
+          "text": "DD",
+          "locations": [
+            {
+              "offset": 546,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "9606",
+            "type": "Species"
+          },
+          "text": "women",
+          "locations": [
+            {
+              "offset": 672,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D000275",
+            "type": "Disease"
+          },
+          "text": "DD",
+          "locations": [
+            {
+              "offset": 691,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D000275",
+            "type": "Disease"
+          },
+          "text": "DD",
+          "locations": [
+            {
+              "offset": 713,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 869,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D000275",
+            "type": "Disease"
+          },
+          "text": "depressive",
+          "locations": [
+            {
+              "offset": 978,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 1149,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 1226,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 1381,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D012893",
+            "type": "Disease"
+          },
+          "text": "EDS",
+          "locations": [
+            {
+              "offset": 1470,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "MESH:D001523",
+            "type": "Disease"
+          },
+          "text": "psychiatric disorders",
+          "locations": [
+            {
+              "offset": 1477,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0002189",
+            "type": "Phenotype"
+          },
+          "text": "Excessive daytime sleepiness",
+          "locations": [
+            {
+              "offset": 172,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0000708",
+            "type": "Phenotype"
+          },
+          "text": "psychiatric disorders",
+          "locations": [
+            {
+              "offset": 338,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0000716",
+            "type": "Phenotype"
+          },
+          "text": "depressive disorders",
+          "locations": [
+            {
+              "offset": 524,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0410263",
+            "type": "Phenotype"
+          },
+          "text": "magnetic resonance imaging",
+          "locations": [
+            {
+              "offset": 598,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0000716",
+            "type": "Phenotype"
+          },
+          "text": "depressive symptomatology",
+          "locations": [
+            {
+              "offset": 978,
+              "length": 25
+            }
+          ]
+        },
+        {
+          "infons": {
+            "identifier": "HP:0000708",
+            "type": "Phenotype"
+          },
+          "text": "psychiatric disorders",
+          "locations": [
+            {
+              "offset": 1477,
+              "length": 21
+            }
+          ]
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "relations": [],
+  "pmid": 29161673,
+  "pmcid": null,
+  "created": {
+    "$date": "2022-02-02T14:50:05.108Z"
+  },
+  "accessions": [
+    "disease@MESH:D012893",
+    "disease@MESH:D000275",
+    "species@9606",
+    "disease@MESH:D001523"
+  ],
+  "journal": "J Affect Disord",
+  "year": 2018,
+  "authors": [
+    "Plante DT",
+    "Birn RM",
+    "Walsh EC",
+    "Hoks RM",
+    "Cornejo MD",
+    "Abercrombie HC"
+  ]
+}
